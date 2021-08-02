@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5529f320-11b7-42e0-8646-289061e7f560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/a/hello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/b/a/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/c/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/d/file1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/d/file2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/d/sub-dir/file5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/d/sub-files/file3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/d/sub-files/file4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/e/directory/.ignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/e/file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/e/symlink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures/invalid.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627891036482</updated>
-      <workItem from="1627891038011" duration="1211000" />
+      <workItem from="1627891038011" duration="1514000" />
     </task>
     <servers />
   </component>
