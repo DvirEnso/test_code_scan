@@ -1,1 +1,3 @@
-const AccesskeyID = 23478207027842073230762374023
+const AccesskeyID = 'AKIAIOSFODNN7EXAMPLE'
+const SecretAccesskey = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
+const region = 'us-west-2'
